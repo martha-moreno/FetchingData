@@ -25,7 +25,7 @@ Go to your browser and go to localhost:8080, select index.html
 ## Built With
 >- React JS
 >- CSS
->>-Bootstrap 5
+>- Bootstrap 5
 
 ## Future Updates
 >- Add a search field to allow the user to define the quotes topic to be displayed
